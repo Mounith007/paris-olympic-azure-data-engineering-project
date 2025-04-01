@@ -1,0 +1,9 @@
+{
+	"name": "paris-olympic-df-mounith",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "28b8bf09-226c-407a-a1c1-16f7502bc752",
+		"tenantId": "c4d658bd-0657-4562-8ebf-506e5a5b59b9"
+	}
+}
